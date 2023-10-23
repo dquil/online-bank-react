@@ -16,4 +16,4 @@ Along the basic functionalities of withdrawals and deposits, there are also some
 as well as a search by id feature and pagination to make the visualization of the data easier.
 
 # *How to run it*
-Simply download de proyect, open it with your IDE of choice (I have used Visual Studio Code), `nano`run npm install`nano` and then use the comando `nano`npm run dev`nano`
+Simply download de proyect, open it with your IDE of choice (I have used Visual Studio Code), `run npm install` and then use the comando `npm run dev`

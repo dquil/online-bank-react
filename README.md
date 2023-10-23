@@ -1,9 +1,9 @@
 # online-bank-react
 
 # *The concept*
-This is a test web application that I built while learning the library React.js. 
+This is a test web application that I built while learning the library React.js using JavaScript and Bootstrap. 
 Its aim is to be a self contained project to flesh out the things I have been learning and researching and therefore scalability has not been the number one priority.
-Instead my focus has been on translating my previous knowledge of web delopment into a project using React.s and investigating a bit about Bootstrap components with React.js.
+Instead my focus has been on translating my previous knowledge of web delopment into a project using React.js and investigating a bit about Bootstrap components with React.js.
 
 # *The functionality*
 This web application is a small an functional bank application for handling the deposits and withdrawals of money from a certain account, a well as keeping a register of the movements 
